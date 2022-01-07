@@ -19,7 +19,7 @@
         <apache.commons-dbcp.version>2.1.1</apache.commons-dbcp.version>
         <guava.version>23.0</guava.version>
         <moneta.version>1.1</moneta.version>
-        <h2.version>1.4.196</h2.version>
+        <h2.version>2.0.206</h2.version>
         <spring.version>5.0.2.RELEASE</spring.version>
         <assertj-core.version>3.9.0</assertj-core.version>
         <random-beans.version>3.7.0</random-beans.version>
