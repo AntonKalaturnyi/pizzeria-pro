@@ -13,7 +13,7 @@
         <log4j.version>2.9.1</log4j.version>
         <junit.version>4.12</junit.version>
         <mockito.version>2.23.4</mockito.version>
-        <postgres.version>42.2.5</postgres.version>
+        <postgres.version>42.2.25</postgres.version>
         <apache.commons-lang.version>3.6</apache.commons-lang.version>
         <apache.commons-collections.version>4.1</apache.commons-collections.version>
         <apache.commons-dbcp.version>2.1.1</apache.commons-dbcp.version>
